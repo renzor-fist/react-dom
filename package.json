@@ -18,7 +18,7 @@
   "homepage": "https://reactjs.org/",
   "dependencies": {
     "loose-envify": "^1.1.0",
-    "scheduler": "0.24.0"
+    "scheduler": "0.24.0-canary-a515d753b-20240220"
   },
   "peerDependencies": {
     "react": "18.3.0-canary-be8aa7687-20231206"
